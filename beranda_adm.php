@@ -17,7 +17,7 @@
                 <div class="panel-body">
                      <table id="dtskripsi" class="table table-bordered table-striped table-hover">
                        <thead>
-                          <p align="center"><img src="imagessmk.jpg"></img></p>
+                          <p align="center"><img src="img/imagessmk.jpg"></img></p>
                           <p class="label-title" align="center"><strong>SMK Negeri 1 Kisaran</strong></p>
                           <p class="col-sm-12 col-xs-12" align="center">
                             Selamat datang di halaman administrator Sistem Informasi Pengolahan Data Siswa Anggota Perpustakaan SMKN 1 Kisaran.<br>
