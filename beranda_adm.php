@@ -21,9 +21,8 @@
                           <p class="label-title" align="center"><strong>SMK Negeri 1 Kisaran</strong></p>
                           <p class="col-sm-12 col-xs-12" align="center">
                             Selamat datang di halaman administrator Sistem Informasi Pengolahan Data Siswa Anggota Perpustakaan SMKN 1 Kisaran.<br>
-                            Melalui halaman ini dapat dilakukan pengelolaan data anggota perpustakaan, pengelolaan peminjaman buku, <br>
-                            dan juga pengelolaan laporan peminjamannya.<br><br>
-                            Akses menu Master Data pada bagian atas sistem untuk pengelolaan data anggota dan data peminjaman buku.<br>
+                            Melalui halaman ini dapat dilakukan pengelolaan data anggota perpustakaan.<br><br>
+                            Akses menu Master Data pada bagian atas sistem untuk pengelolaan data anggota.<br>
                             Untuk mengelola laporan, dapat dilakukan dengan mengakses menu report pada bagian atas sistem.<br>
                             Akses menu User untuk mengelola informasi tentang user yang login.<br><br><br>
 
