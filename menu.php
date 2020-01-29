@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
             </button>
 
-            <a class="navbar-brand" href="?page=utama">SIP Data Siswa Anggota Perpustakaan SMKN 1 Kisaran</a>
+            <a class="navbar-brand" href="?page=utama"><marquee>SIP Data Siswa Anggota Perpustakaan SMKN 1 Kisaran</a></marquee>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
