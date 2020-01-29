@@ -8,7 +8,7 @@
                 <div class="panel-body">
                     <table id="dtskripsi" class="table table-bordered table-striped table-hover">
                         <thead>
-                            <p align="center"><img src="imagessmk.jpg"></img></p>
+                            <p align="center"><img src="img/imagessmk.jpg"></img></p>
                             <label class="col-sm-12 control-label"><center><strong>SISTEM INFORMASI PERPUSTAKAAN  <br> SMK Negeri 1 Kisaran</strong></center></label>
                         </thead>
                         <tbody>
